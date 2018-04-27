@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="testCases.LoginPage">
+        <methods>
+          <include name="executeScript"/>
+        </methods>
+      </class> <!-- testCases.LoginPage -->
+      <class name="testCases.Bookmarks">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="executeScipt"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- testCases.Bookmarks -->
+      <class name="testCases.Trusted_Sites">
+        <methods>
+          <include name="executeScipt"/>
+        </methods>
+      </class> <!-- testCases.Trusted_Sites -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

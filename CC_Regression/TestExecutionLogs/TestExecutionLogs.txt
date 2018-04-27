@@ -1,0 +1,46 @@
+0    [main] INFO  INFO  - ****Execution for Isla Control Center started****
+21   [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+41028 [main] INFO  INFO  - ****Execution for Isla Control Center started****
+41037 [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+75494 [main] INFO  INFO  - ****Execution for Isla Control Center started****
+75505 [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for Isla Control Center started****
+392  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+392  [main] ERROR ERROR  - Control Center-Bookmarks navigation is failed....stoping test
+392  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+715  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+11938 [main] INFO  INFO  - ****Execution for Isla Control Center started****
+12298 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+12298 [main] ERROR ERROR  - Control Center-Login Page navigation is failed....stoping test
+12298 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+12617 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+28355 [main] INFO  INFO  - ****Execution for Isla Control Center started****
+28706 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+28706 [main] ERROR ERROR  - Control Center-Trusted Sites navigation is failed....stoping test
+28706 [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+29009 [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Isla Control Center started****
+380  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+380  [main] ERROR ERROR  - Control Center-Bookmarks navigation is failed....stoping test
+380  [main] ERROR ERROR  - An Exception was thrown, Please check error screenshot for more information
+708  [main] ERROR ERROR  - Screenshot added for the failure of the Test Step
+0    [main] INFO  INFO  - ****Execution for Isla Control Center started****
+13   [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+41567 [main] INFO  INFO  - ****Execution for Isla Control Center started****
+41579 [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+76106 [main] INFO  INFO  - ****Execution for Isla Control Center started****
+76123 [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for Isla Control Center started****
+10   [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+35488 [main] INFO  INFO  - ****Execution for Isla Control Center started****
+35496 [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for Isla Control Center started****
+9    [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+42837 [main] INFO  INFO  - ****Execution for Isla Control Center started****
+42844 [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+77868 [main] INFO  INFO  - ****Execution for Isla Control Center started****
+77884 [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for Isla Control Center started****
+12   [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
+0    [main] INFO  INFO  - ****Execution for Isla Control Center started****
+10   [main] INFO  INFO  - Control Center navigation is done successfully....continuing test
